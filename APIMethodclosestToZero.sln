@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMethodclosestToZero", "APIMethodclosestToZero\APIMethodclosestToZero.csproj", "{717861DF-9804-4AEA-8B12-922F823D71A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717861DF-9804-4AEA-8B12-922F823D71A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717861DF-9804-4AEA-8B12-922F823D71A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717861DF-9804-4AEA-8B12-922F823D71A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717861DF-9804-4AEA-8B12-922F823D71A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFFEB7F4-9A28-4438-A638-7F3F97A4A500}
+	EndGlobalSection
+EndGlobal
